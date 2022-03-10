@@ -19,7 +19,7 @@ void imprimeLista(tnodoptr*);
 
 int main(void) {
     tnodoptr cab = NULL;
-    int op,entero, success;
+    int op = NULL, entero = NULL, success = NULL;
 
     do {
         printf("          Bienvenido al programa listaEnlazada\n");
